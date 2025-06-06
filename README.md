@@ -1,4 +1,4 @@
-# 🐍 ABC Company Employee Data Analysis – Python Final Project
+# ABC Company Employee Data Analysis – Python Final Project
 
 ## Project Overview
 
